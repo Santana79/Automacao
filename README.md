@@ -15,7 +15,9 @@ Baixar webdrivers.
 Uma vez preparado o ambiente, estando toda a automação desenvolvida, será possível executar o script assim:
 
 Entrar na pasta criada do projeto;
-Executar o comando "robo .\login_compra.robot"
+Executar o comando "robot .\login_compra.robot"
+
+![image](https://github.com/Santana79/Automacao/assets/49695433/e9a2aee3-0875-4cab-ade2-9dae0ab0ba52)
 
 
-![image](https://github.com/Santana79/Automacao/assets/49695433/46f9da79-e2c9-489b-954e-ec3e4301101e)
+
