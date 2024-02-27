@@ -3,6 +3,7 @@ Este é um projeto de automação de teste utilizando o Robot Framework para tes
 Para realizar a automação do fluxo de compra, é necessário algumas pré-configurações de ambiente, baixando e instalando as seguintes dependências:
 
 Instalar o Python "https://www.python.org/downloads/"
+
 Instalar o Robot "https://robotframework.org/"
 
 Baixar as libraries (Selenium library e RequestsLibrary);
