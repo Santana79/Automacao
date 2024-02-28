@@ -57,7 +57,7 @@ seleciona o produto
     Click Button     locator=${CHECKOUT}
 
 
-informacoes preenchidas
+informacoes preenchidas por completo
     Click Element            locator=${FIRST_NAME}
     Input Text               locator=${FIRST_NAME}    text=Teste
     Input Text               locator=${LAST_NAME}     text=Automação

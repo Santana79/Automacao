@@ -8,12 +8,12 @@ Test Setup           Abrir o navegador
 *** Test Cases ***
 
 Teste 01 - Login na pagina
-    [Tags]            menus
+    [Tags]         menus
     Given acesse a pagina de login
     When preencher as credenciais de acesso
     Then é direcionado para a pagina com sucesso
     And seleciona o produto
-    And informacoes preenchidas
+    And informacoes preenchidas por completo
     And compra realizada com sucesso
 
     
